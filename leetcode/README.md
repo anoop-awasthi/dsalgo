@@ -7,6 +7,7 @@
 | ------------- |:-------------:|:-------------:|
 | Easy          | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)| [Solution](https://github.com/anoop-awasthi/dsalgo/blob/main/leetcode/src/easy/BuildArrayFromPermutation.java)|
 | Easy          | [Two Sum](https://leetcode.com/problems/two-sum/)| [Solution](https://github.com/anoop-awasthi/dsalgo/blob/main/leetcode/src/easy/TwoSum.java)|
+| Easy          | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Solution](https://github.com/anoop-awasthi/dsalgo/blob/main/leetcode/src/easy/ContainsDuplicate.java)|
 
 ## LeetCode Medium Problems
 
